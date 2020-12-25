@@ -1,0 +1,237 @@
+@media only screen and (max-width: 1440px) {
+    .burger {
+        margin-left: 120px;
+    }
+    .eng {
+        margin-left: 156px;
+    }
+    .relative {
+        margin-left: 70px;
+    }
+    .bc-img1 {
+        width: 480px;
+    }
+    .width {
+        width: 480px;
+    }
+    .singUp {
+        width: 480px;
+    }
+    #login-div {
+        margin-left: 0px;
+    }
+    .footbar {
+        width: 1315px;
+        margin-left: 60px;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .burger {
+        margin-left: 120px;
+    }
+    .eng {
+        margin-left: 100px;
+    }
+    .input {
+        width: 380px;
+    }
+    .relative {
+        margin-left: 70px;
+    }
+    .bc-img1 {
+        width: 340px;
+    }
+    .width {
+        width: 340px;
+    }
+    .singUp {
+        width: 340px;
+    }
+    #login-div {
+        margin-left: 0px;
+    }
+    .footbar {
+        width: 904px;
+        margin-left: 60px;
+    }
+    .f-li3 {
+        opacity: 0;
+    }
+    .f-li4 {
+        opacity: 0;
+    }
+    .F-pr {
+        right: 310px;
+    }
+    .f-liR {
+        right: 290px;
+
+    }
+    .FB a {
+        width: 165px;
+    }
+    .GM a {
+        width: 165px;
+    }
+    .GM a img {
+        margin-right: 25px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .burger {
+        margin-left: 35px;
+    }
+    .eng {
+        margin-left: 30px;
+    }
+    .input {
+        width: 300px;
+    }
+    .relative {
+        margin-left: 50px;
+    }
+    .bc-img1 {
+        width: 256px;
+    }
+    .width {
+        width: 256px;
+    }
+    .singUp {
+        width: 256px;
+    }
+    #login-div {
+        margin-left: 0px;
+    }
+    .footbar {
+        width: 648px;
+        margin-left: 60px;
+    }
+    .f-li3 {
+        opacity: 0;
+    }
+    .f-li4 {
+        opacity: 0;
+        left: 552px;
+    }
+    .f-li2 {
+        opacity: 0;
+    }
+    .F-pr {
+        right: 250px;
+    }
+    .f-liR {
+        right: 235px;
+    }
+    .FB a img {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .GM a img {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .FB a {
+        width: 115px;
+    }
+    .GM a {
+        width: 115px;
+    }
+    .GM a img {
+        margin-right: 15px;
+        margin-left: 10px;
+    }
+    .bla {
+        margin-left: 16px;
+    }
+}
+
+
+@media only screen and (max-width: 425px) {
+    .burger {
+        margin-left: 10px;
+    }
+    .movies {
+        margin-left: 10px;
+    }
+    .relative {
+        margin-left: -15px;
+    }
+    .input {
+        width: 123px;
+    }
+    .eng {
+        margin-left: 5px;
+    }
+    .eng-1 {
+        margin-left: 0px;
+    }
+    .bc-img1 {
+        width: 25%;
+    }
+    .width {
+        width: 25%;
+    }
+    .singUp {
+        width: 60%;
+    }
+    #login-div {
+        margin-left: 0px;
+    }
+    .footbar {
+        width: 381px;
+        margin-left: 23px;
+    }
+    .F-p {
+        opacity: 0;
+    }
+    .f-li {
+        opacity: 0;
+    }
+    .f-li3 {
+        left: 200px;
+        opacity: 0;
+    }
+    .f-li4 {
+        opacity: 0;
+        left: 200px;
+    }
+    .f-li2 {
+        left: 225px;
+        opacity: 0;
+    }
+    .F-pr {
+        left: 25px;
+    }
+    .F-prr {
+        right: 60px;
+    }
+    .f-liRR {
+        right: 82px;
+    }
+    .f-liR {
+        left: 30px;
+    }
+    .FB a img {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .GM a img {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .FB a {
+        width: 115px;
+    }
+    .GM a {
+        width: 115px;
+    }
+    .GM a img {
+        margin-right: 15px;
+        margin-left: 10px;
+    }
+    .bla {
+        margin-left: 16px;
+    }
+}
+
